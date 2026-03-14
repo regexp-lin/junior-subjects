@@ -1,3 +1,1 @@
-
-
-根据 @prompt4.md 的内容，分别生成第5课 - 到第24课的 prompt 文件。命名分别是 prompt5.md - prompt24.md . 都放在 @todos 文件夹下。
+根据 @prompt2.md 的内容，以及根据@生物/课本/七上 目录下的所有文件，生成其他的prompt-[章节].md 文件。 都放在 @todos 文件夹下。
