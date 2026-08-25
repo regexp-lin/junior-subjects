@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860" role="img" aria-labelledby="title desc">
+  <title id="title">第一章 特殊平行四边形 思维导图</title>
+  <desc id="desc">围绕定义与关系、菱形、矩形、正方形、研究策略和应用组织的思维导图。</desc>
+  <defs>
+    <style>
+      .bg { fill:#f7fbff; } .title { font:700 30px 'PingFang SC','Microsoft YaHei',sans-serif; fill:#123a63; }
+      .sub { font:500 15px 'PingFang SC','Microsoft YaHei',sans-serif; fill:#5f748a; }
+      .root { font:700 23px 'PingFang SC','Microsoft YaHei',sans-serif; fill:#fff; text-anchor:middle; }
+      .h { font:700 19px 'PingFang SC','Microsoft YaHei',sans-serif; fill:#17324d; }
+      .b { font:400 15px 'PingFang SC','Microsoft YaHei',sans-serif; fill:#2f4659; }
+      .small { font:400 14px 'PingFang SC','Microsoft YaHei',sans-serif; fill:#2f4659; }
+      .line { fill:none; stroke:#9abbd7; stroke-width:3; stroke-linecap:round; }
+      .card { fill:#fff; stroke-width:2; } .dot { stroke:#fff; stroke-width:2; }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="860" rx="24"/>
+  <text class="title" x="54" y="55">第一章｜特殊平行四边形</text>
+  <text class="sub" x="54" y="82">从“平行四边形”出发，掌握特殊图形的性质、判定与转化</text>
+
+  <path class="line" d="M515 414 C460 330 445 235 420 215 M515 438 C455 458 445 490 420 500 M685 414 C745 330 775 235 830 215 M685 438 C748 455 768 490 830 500 M532 505 C500 600 455 685 420 710 M668 505 C710 600 755 685 830 710"/>
+  <circle cx="600" cy="455" r="92" fill="#1f5f99"/>
+  <text class="root" x="600" y="444">特殊平行</text><text class="root" x="600" y="474">四边形</text>
+
+  <g transform="translate(45 105)"><rect class="card" width="375" height="220" rx="18" stroke="#68a8d8"/><circle class="dot" cx="28" cy="31" r="12" fill="#68a8d8"/><text class="h" x="52" y="38">认识与关系</text>
+    <text class="b" x="27" y="73">• 基础：平行四边形的对边平行且相等</text><text class="b" x="27" y="100">• 菱形：一组邻边相等的平行四边形</text><text class="b" x="27" y="127">• 矩形：有一个角是直角的平行四边形</text><text class="b" x="27" y="154">• 正方形：一组邻边相等，且有一个直角</text><text class="b" x="27" y="181">• 正方形同时是菱形和矩形</text>
+  </g>
+  <g transform="translate(45 375)"><rect class="card" width="375" height="220" rx="18" stroke="#65c0a7"/><circle class="dot" cx="28" cy="31" r="12" fill="#65c0a7"/><text class="h" x="52" y="38">菱形：性质与判定</text>
+    <text class="b" x="27" y="73">• 四条边相等；对边平行、对角相等</text><text class="b" x="27" y="100">• 对角线互相垂直、互相平分</text><text class="b" x="27" y="127">• 判定①：平行四边形 + 一组邻边相等</text><text class="b" x="27" y="154">• 判定②：平行四边形 + 对角线互相垂直</text><text class="b" x="27" y="181">• 结合等腰三角形与对角线进行证明</text>
+  </g>
+  <g transform="translate(45 645)"><rect class="card" width="375" height="160" rx="18" stroke="#a78bd3"/><circle class="dot" cx="28" cy="31" r="12" fill="#a78bd3"/><text class="h" x="52" y="38">研究策略</text>
+    <text class="b" x="27" y="73">• 先用定义，再继承平行四边形性质</text><text class="b" x="27" y="100">• 判定时：先证平行四边形，再补特殊条件</text><text class="b" x="27" y="127">• 常用：对角线、全等、直角三角形</text>
+  </g>
+  <g transform="translate(830 105)"><rect class="card" width="325" height="220" rx="18" stroke="#f0ad61"/><circle class="dot" cx="28" cy="31" r="12" fill="#f0ad61"/><text class="h" x="52" y="38">矩形：性质与判定</text>
+    <text class="b" x="27" y="73">• 四个角都是直角</text><text class="b" x="27" y="100">• 对角线相等且互相平分</text><text class="b" x="27" y="127">• 判定①：平行四边形 + 一个直角</text><text class="b" x="27" y="154">• 判定②：平行四边形 + 对角线相等</text><text class="b" x="27" y="181">• 对称性：两条对称轴，中心对称</text>
+  </g>
+  <g transform="translate(830 375)"><rect class="card" width="325" height="220" rx="18" stroke="#e17f8d"/><circle class="dot" cx="28" cy="31" r="12" fill="#e17f8d"/><text class="h" x="52" y="38">正方形：交汇与升级</text>
+    <text class="b" x="27" y="73">• 四条边相等，四个角都是直角</text><text class="b" x="27" y="100">• 对角线相等、垂直且互相平分</text><text class="b" x="27" y="127">• 判定：矩形 + 一组邻边相等</text><text class="b" x="27" y="154">• 或：菱形 + 一个直角</text><text class="b" x="27" y="181">• 对称性最强：4 条对称轴</text>
+  </g>
+  <g transform="translate(830 645)"><rect class="card" width="325" height="160" rx="18" stroke="#6d9bd2"/><circle class="dot" cx="28" cy="31" r="12" fill="#6d9bd2"/><text class="h" x="52" y="38">应用与易错点</text>
+    <text class="b" x="27" y="73">• 利用特殊性质求角、边、对角线</text><text class="b" x="27" y="100">• 作内接正八边形：关注等边与等角</text><text class="b" x="27" y="127">• 分清“性质”与“判定”的使用方向</text>
+  </g>
+</svg>

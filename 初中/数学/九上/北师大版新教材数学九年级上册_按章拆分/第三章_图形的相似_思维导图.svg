@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860" role="img" aria-labelledby="title desc">
+  <title id="title">第三章 图形的相似 思维导图</title>
+  <desc id="desc">围绕相似定义、相似三角形判定、性质、位似和测高应用组织的思维导图。</desc>
+  <defs><style>
+    .bg{fill:#f5fbfa}.title{font:700 30px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#175855}.sub{font:500 15px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#62817e}.root{font:700 23px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#fff;text-anchor:middle}.h{font:700 19px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#214743}.b{font:400 15px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#345a56}.line{fill:none;stroke:#9fd2c9;stroke-width:3;stroke-linecap:round}.card{fill:#fff;stroke-width:2}.dot{stroke:#fff;stroke-width:2}
+  </style></defs>
+  <rect class="bg" width="1200" height="860" rx="24"/><text class="title" x="54" y="55">第三章｜图形的相似</text><text class="sub" x="54" y="82">用“对应”与“比例”刻画形状相同，并解决测量与缩放问题</text>
+  <path class="line" d="M515 414 C460 330 445 235 420 215 M515 438 C455 458 445 490 420 500 M685 414 C745 330 775 235 830 215 M685 438 C748 455 768 490 830 500 M532 505 C500 600 455 685 420 710 M668 505 C710 600 755 685 830 710"/>
+  <circle cx="600" cy="455" r="92" fill="#238278"/><text class="root" x="600" y="444">图形的</text><text class="root" x="600" y="474">相似</text>
+  <g transform="translate(45 105)"><rect class="card" width="375" height="220" rx="18" stroke="#63bcae"/><circle class="dot" cx="28" cy="31" r="12" fill="#63bcae"/><text class="h" x="52" y="38">相似多边形：基础</text>
+    <text class="b" x="27" y="73">• 形状相同、大小可不同；可看作放大或缩小</text><text class="b" x="27" y="100">• 对应角相等，对应边成比例</text><text class="b" x="27" y="127">• 相似比 k：对应边长的比</text><text class="b" x="27" y="154">• 写相似式时，对应顶点顺序必须一致</text><text class="b" x="27" y="181">• 用比例尺、线段比描述大小关系</text>
+  </g>
+  <g transform="translate(45 375)"><rect class="card" width="375" height="220" rx="18" stroke="#eeae6a"/><circle class="dot" cx="28" cy="31" r="12" fill="#eeae6a"/><text class="h" x="52" y="38">相似三角形：判定</text>
+    <text class="b" x="27" y="73">• AA：两角分别相等</text><text class="b" x="27" y="100">• SAS：两边对应成比例且夹角相等</text><text class="b" x="27" y="127">• SSS：三边对应成比例</text><text class="b" x="27" y="154">• 平行线常能制造相等角，得到 AA</text><text class="b" x="27" y="181">• 证明基础：平行线截得对应线段成比例</text>
+  </g>
+  <g transform="translate(45 645)"><rect class="card" width="375" height="160" rx="18" stroke="#a58bcf"/><circle class="dot" cx="28" cy="31" r="12" fill="#a58bcf"/><text class="h" x="52" y="38">证明与计算路径</text>
+    <text class="b" x="27" y="73">• 找对应角、对应边 → 选择判定条件</text><text class="b" x="27" y="100">• 写出相似式 → 列比例式 → 求未知量</text><text class="b" x="27" y="127">• 区分“相似”与“全等”：大小可不同</text>
+  </g>
+  <g transform="translate(830 105)"><rect class="card" width="325" height="220" rx="18" stroke="#79a8da"/><circle class="dot" cx="28" cy="31" r="12" fill="#79a8da"/><text class="h" x="52" y="38">相似三角形：性质</text>
+    <text class="b" x="27" y="73">• 对应边的比 = 相似比 k</text><text class="b" x="27" y="100">• 对应高、角平分线、中线的比都等于 k</text><text class="b" x="27" y="127">• 周长比等于 k</text><text class="b" x="27" y="154">• 面积比等于 k²</text><text class="b" x="27" y="181">• 由比例关系把“形”转化为“数”</text>
+  </g>
+  <g transform="translate(830 375)"><rect class="card" width="325" height="220" rx="18" stroke="#e17f8d"/><circle class="dot" cx="28" cy="31" r="12" fill="#e17f8d"/><text class="h" x="52" y="38">图形的位似</text>
+    <text class="b" x="27" y="73">• 对应点所在直线都经过同一点 O</text><text class="b" x="27" y="100">• O 是位似中心；OP′ = k·OP（k &gt; 0）</text><text class="b" x="27" y="127">• 位似图形一定相似，相似比为 k</text><text class="b" x="27" y="154">• k &gt; 1：放大；0 &lt; k &lt; 1：缩小</text><text class="b" x="27" y="181">• 用于按比例作图、图片缩放与设计</text>
+  </g>
+  <g transform="translate(830 645)"><rect class="card" width="325" height="160" rx="18" stroke="#65b8ba"/><circle class="dot" cx="28" cy="31" r="12" fill="#65b8ba"/><text class="h" x="52" y="38">活动：利用相似测高</text>
+    <text class="b" x="27" y="73">• 标杆/皮尺/影子：构造相似三角形</text><text class="b" x="27" y="100">• 量已知边，列高度对应比例，求旗杆高</text><text class="b" x="27" y="127">• 重视工具、记录、误差与结果解释</text>
+  </g>
+</svg>

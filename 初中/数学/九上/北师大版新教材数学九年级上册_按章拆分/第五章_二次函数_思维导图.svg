@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860" role="img" aria-labelledby="title desc">
+  <title id="title">第五章 二次函数 思维导图</title>
+  <desc id="desc">围绕二次函数概念、图象与性质、实际应用、与一元二次方程关系和最大面积活动组织的思维导图。</desc>
+  <defs><style>
+    .bg{fill:#f8f7ff}.title{font:700 30px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#423b78}.sub{font:500 15px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#756f9b}.root{font:700 23px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#fff;text-anchor:middle}.h{font:700 19px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#40395d}.b{font:400 15px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#554e70}.line{fill:none;stroke:#b9b1e3;stroke-width:3;stroke-linecap:round}.card{fill:#fff;stroke-width:2}.dot{stroke:#fff;stroke-width:2}
+  </style></defs>
+  <rect class="bg" width="1200" height="860" rx="24"/><text class="title" x="54" y="55">第五章｜二次函数</text><text class="sub" x="54" y="82">用解析式、图象和顶点刻画变化规律，解决最值与运动问题</text>
+  <path class="line" d="M515 414 C460 330 445 235 420 215 M515 438 C455 458 445 490 420 500 M685 414 C745 330 775 235 830 215 M685 438 C748 455 768 490 830 500 M532 505 C500 600 455 685 420 710 M668 505 C710 600 755 685 830 710"/>
+  <circle cx="600" cy="455" r="92" fill="#6455a8"/><text class="root" x="600" y="444">二次</text><text class="root" x="600" y="474">函数</text>
+  <g transform="translate(45 105)"><rect class="card" width="375" height="220" rx="18" stroke="#8b80d0"/><circle class="dot" cx="28" cy="31" r="12" fill="#8b80d0"/><text class="h" x="52" y="38">概念与表示</text>
+    <text class="b" x="27" y="73">• 一般式：y = ax² + bx + c（a ≠ 0）</text><text class="b" x="27" y="100">• 自变量范围要结合实际情境确定</text><text class="b" x="27" y="127">• 可用解析式、表格、图象三种方式研究</text><text class="b" x="27" y="154">• 特例 y = x² 是认识抛物线的起点</text><text class="b" x="27" y="181">• 建模来源：产量、面积、运动轨迹、利润</text>
+  </g>
+  <g transform="translate(45 375)"><rect class="card" width="375" height="220" rx="18" stroke="#69bfae"/><circle class="dot" cx="28" cy="31" r="12" fill="#69bfae"/><text class="h" x="52" y="38">图象与基本性质</text>
+    <text class="b" x="27" y="73">• 图象是抛物线；先列表描点，再光滑连线</text><text class="b" x="27" y="100">• 对称轴：x = −b / 2a；顶点在对称轴上</text><text class="b" x="27" y="127">• a &gt; 0 开口向上，有最小值</text><text class="b" x="27" y="154">• a &lt; 0 开口向下，有最大值</text><text class="b" x="27" y="181">• 离对称轴越远：两侧函数值成对相等</text>
+  </g>
+  <g transform="translate(45 645)"><rect class="card" width="375" height="160" rx="18" stroke="#e59e62"/><circle class="dot" cx="28" cy="31" r="12" fill="#e59e62"/><text class="h" x="52" y="38">最大（小）值思路</text>
+    <text class="b" x="27" y="73">• 先写函数关系式，明确自变量的取值范围</text><text class="b" x="27" y="100">• 用顶点或对称性判断最值及取得条件</text><text class="b" x="27" y="127">• 结果要还原为实际量，并检查可行性</text>
+  </g>
+  <g transform="translate(830 105)"><rect class="card" width="325" height="220" rx="18" stroke="#72a7d8"/><circle class="dot" cx="28" cy="31" r="12" fill="#72a7d8"/><text class="h" x="52" y="38">解析式与图象互证</text>
+    <text class="b" x="27" y="73">• 顶点：(-b/2a，(4ac−b²)/4a)</text><text class="b" x="27" y="100">• y 轴交点：(0，c)</text><text class="b" x="27" y="127">• 代入已知点，建立方程组求 a、b、c</text><text class="b" x="27" y="154">• 由图读出开口、对称轴、顶点与增减性</text><text class="b" x="27" y="181">• 关注图象在实际区间内的意义</text>
+  </g>
+  <g transform="translate(830 375)"><rect class="card" width="325" height="220" rx="18" stroke="#e07c8f"/><circle class="dot" cx="28" cy="31" r="12" fill="#e07c8f"/><text class="h" x="52" y="38">与一元二次方程</text>
+    <text class="b" x="27" y="73">• y = ax² + bx + c 与 x 轴交点的横坐标</text><text class="b" x="27" y="100">• 就是 ax² + bx + c = 0 的根</text><text class="b" x="27" y="127">• 两交点 / 一交点 / 无交点</text><text class="b" x="27" y="154">• 对应两个实根 / 一个实根 / 无实根</text><text class="b" x="27" y="181">• 代数求根与几何读图可以相互检验</text>
+  </g>
+  <g transform="translate(830 645)"><rect class="card" width="325" height="160" rx="18" stroke="#a986cc"/><circle class="dot" cx="28" cy="31" r="12" fill="#a986cc"/><text class="h" x="52" y="38">活动：怎样围面积最大</text>
+    <text class="b" x="27" y="73">• 围篱笆与靠墙条件 → 建立面积二次函数</text><text class="b" x="27" y="100">• 外墙足够长时，可写 A = x(60−2x)</text><text class="b" x="27" y="127">• 比较不同墙长条件下的最优围法</text>
+  </g>
+</svg>

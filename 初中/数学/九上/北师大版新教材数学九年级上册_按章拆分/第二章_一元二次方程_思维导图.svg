@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860" role="img" aria-labelledby="title desc">
+  <title id="title">第二章 一元二次方程 思维导图</title>
+  <desc id="desc">围绕概念、解法、根与系数关系、实际应用及检验组织的思维导图。</desc>
+  <defs><style>
+    .bg{fill:#fffaf3}.title{font:700 30px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#74451c}.sub{font:500 15px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#8c7156}.root{font:700 23px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#fff;text-anchor:middle}.h{font:700 19px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#4b3725}.b{font:400 15px 'PingFang SC','Microsoft YaHei',sans-serif;fill:#5c4836}.line{fill:none;stroke:#e4be8a;stroke-width:3;stroke-linecap:round}.card{fill:#fff;stroke-width:2}.dot{stroke:#fff;stroke-width:2}
+  </style></defs>
+  <rect class="bg" width="1200" height="860" rx="24"/><text class="title" x="54" y="55">第二章｜一元二次方程</text><text class="sub" x="54" y="82">从实际问题建模，选择合适的解法并解释根的意义</text>
+  <path class="line" d="M515 414 C460 330 445 235 420 215 M515 438 C455 458 445 490 420 500 M685 414 C745 330 775 235 830 215 M685 438 C748 455 768 490 830 500 M532 505 C500 600 455 685 420 710 M668 505 C710 600 755 685 830 710"/>
+  <circle cx="600" cy="455" r="92" fill="#b46f23"/><text class="root" x="600" y="444">一元二次</text><text class="root" x="600" y="474">方程</text>
+  <g transform="translate(45 105)"><rect class="card" width="375" height="220" rx="18" stroke="#dfab5f"/><circle class="dot" cx="28" cy="31" r="12" fill="#dfab5f"/><text class="h" x="52" y="38">概念与识别</text>
+    <text class="b" x="27" y="73">• 一般形式：ax² + bx + c = 0（a ≠ 0）</text><text class="b" x="27" y="100">• 未知数最高次数为 2，且只含一个未知数</text><text class="b" x="27" y="127">• 先化为一般形式，再确定 a、b、c</text><text class="b" x="27" y="154">• 方程的根：使等式成立的 x 的值</text><text class="b" x="27" y="181">• 情境：面积、勾股、连续整数、运动</text>
+  </g>
+  <g transform="translate(45 375)"><rect class="card" width="375" height="220" rx="18" stroke="#8bbda9"/><circle class="dot" cx="28" cy="31" r="12" fill="#8bbda9"/><text class="h" x="52" y="38">解法：转化为已知问题</text>
+    <text class="b" x="27" y="73">• 直接开平方法：(x + m)² = n</text><text class="b" x="27" y="100">• 配方法：凑成完全平方式，再开平方</text><text class="b" x="27" y="127">• 因式分解法：积为 0 ⇒ 至少一因式为 0</text><text class="b" x="27" y="154">• 求根公式：x = (−b ± √(b²−4ac)) / 2a</text><text class="b" x="27" y="181">• 先观察结构，优先选计算较简便的方法</text>
+  </g>
+  <g transform="translate(45 645)"><rect class="card" width="375" height="160" rx="18" stroke="#a88ccf"/><circle class="dot" cx="28" cy="31" r="12" fill="#a88ccf"/><text class="h" x="52" y="38">解题规范</text>
+    <text class="b" x="27" y="73">• 每一步等价变形，开平方要写 ±</text><text class="b" x="27" y="100">• 因式分解后逐个令因式为 0</text><text class="b" x="27" y="127">• 最后代回检验或检查原方程</text>
+  </g>
+  <g transform="translate(830 105)"><rect class="card" width="325" height="220" rx="18" stroke="#75a7d8"/><circle class="dot" cx="28" cy="31" r="12" fill="#75a7d8"/><text class="h" x="52" y="38">根与系数的关系</text>
+    <text class="b" x="27" y="73">• 若 x₁、x₂ 是方程的两个根</text><text class="b" x="27" y="100">• x₁ + x₂ = −b / a</text><text class="b" x="27" y="127">• x₁x₂ = c / a</text><text class="b" x="27" y="154">• 结构：a(x−x₁)(x−x₂)</text><text class="b" x="27" y="181">• 用于由根求系数、由系数求根的和与积</text>
+  </g>
+  <g transform="translate(830 375)"><rect class="card" width="325" height="220" rx="18" stroke="#e18787"/><circle class="dot" cx="28" cy="31" r="12" fill="#e18787"/><text class="h" x="52" y="38">实际问题建模</text>
+    <text class="b" x="27" y="73">• 设未知数：含单位、取值范围要清楚</text><text class="b" x="27" y="100">• 找等量关系：把文字、图形转成方程</text><text class="b" x="27" y="127">• 解方程：必要时保留精确值或近似值</text><text class="b" x="27" y="154">• 筛选根：剔除不合实际意义的解</text><text class="b" x="27" y="181">• 作答：回到情境，写出单位与结论</text>
+  </g>
+  <g transform="translate(830 645)"><rect class="card" width="325" height="160" rx="18" stroke="#65b8ba"/><circle class="dot" cx="28" cy="31" r="12" fill="#65b8ba"/><text class="h" x="52" y="38">复习抓手</text>
+    <text class="b" x="27" y="73">• “建模—求解—检验—解释”四步走</text><text class="b" x="27" y="100">• 根的正负、大小要服从题目条件</text><text class="b" x="27" y="127">• 区分方程的解与实际问题的答案</text>
+  </g>
+</svg>
