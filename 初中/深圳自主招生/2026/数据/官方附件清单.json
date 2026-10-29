@@ -1,0 +1,151 @@
+[
+  {
+    "id": "public",
+    "file": "官方附件/附件1-2026公办自主招生计划.docx",
+    "url": "https://www.sz.gov.cn/attachment/1/1721/1721432/12833432.docx",
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "4b976abcc34e1138489976fb8f94374323c6d0919713fcf4a95a6ad3c0cc904f",
+    "size": 71110,
+    "status": "公开取得；已读取OOXML正文/表格"
+  },
+  {
+    "id": "private",
+    "file": "官方附件/附件2-2026民办自主招生计划.docx",
+    "url": "https://www.sz.gov.cn/attachment/1/1721/1721196/12833432.docx",
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "3a207505df2ad4dc275a8b6e83d033dc9d6af3edc5a3c0dfc17efb25f4003a06",
+    "size": 33036,
+    "status": "公开取得；已读取OOXML正文/表格"
+  },
+  {
+    "id": "class1",
+    "file": "官方附件/附件3-2026公办一类工作方案-内容异常待核.wps",
+    "url": "https://www.sz.gov.cn/attachment/1/1721/1721239/12833432.wps",
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "d3dc429751364b05206999ebfa93b7a3ba4c5db6772649dadc443a124603823c",
+    "size": 89600,
+    "status": "公开取得；附件3容器仅空文本框，不能提取方案正文"
+  },
+  {
+    "id": "class2",
+    "file": "官方附件/附件4-2026公办二类工作方案.docx",
+    "url": "https://www.sz.gov.cn/attachment/1/1721/1721238/12833432.docx",
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "aa44068adbf4df80159a6a8f2b2e93dca9f750beabe1e08364f5b3a9092ffd0d",
+    "size": 42343,
+    "status": "公开取得；已读取OOXML正文/表格"
+  },
+  {
+    "id": "schedule",
+    "file": "官方附件/附件6-2026工作日程.docx",
+    "url": "https://www.sz.gov.cn/attachment/1/1721/1721177/12833432.docx",
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "6853a6a34cfc54a05c4a3b042f72439b07385e0973a7282591afc9f3e5af6760",
+    "size": 14630,
+    "status": "公开取得；已读取OOXML正文/表格"
+  },
+  {
+    "id": "PDF01",
+    "file": "官方附件/深圳实验学校高中部-2026一类简章.pdf",
+    "url": "https://www.szsy.cn/uploads/jyjxb/2026%E5%B9%B4%E6%B7%B1%E5%9C%B3%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1%E9%AB%98%E4%B8%AD%E9%83%A8%E4%B8%80%E7%B1%BB%E8%87%AA%E4%B8%BB%E6%8B%9B%E7%94%9F%E7%AE%80%E7%AB%A0_1781054820.pdf",
+    "alias_url": null,
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "0bdc7a3c733a993e50a7df7217fcb1b805e24f93f2f98ba8ec530de619ef83a7",
+    "size": 116230,
+    "status": "公开取得；已读取相关正文，体育仅目录与部分条目，未逐项复核全部评分表"
+  },
+  {
+    "id": "PDF02",
+    "file": "官方附件/深圳实验学校光明高中部-2026一类简章.pdf",
+    "url": "https://www.szsy.cn/uploads/jyjxb/2026%E5%B9%B4%E6%B7%B1%E5%9C%B3%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1%E5%85%89%E6%98%8E%E9%AB%98%E4%B8%AD%E9%83%A8%E4%B8%80%E7%B1%BB%E8%87%AA%E4%B8%BB%E6%8B%9B%E7%94%9F%E7%AE%80%E7%AB%A0_1781056784.pdf",
+    "alias_url": null,
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "802eb05c82b599e70ffb56ac7001a990b5dd8d3e75f6f53208d2f769d27c55f9",
+    "size": 103206,
+    "status": "公开取得；已读取相关正文，体育仅目录与部分条目，未逐项复核全部评分表"
+  },
+  {
+    "id": "PDF03",
+    "file": "官方附件/深圳市第二高级中学-2026一类简章.pdf",
+    "url": "https://www.sz2g.cn/attachment/0/106/106065/1737227.pdf",
+    "alias_url": null,
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "52c54b109d57606dc3ef2afc4fa115bef78f28611dab4eab88f168f23a398ca5",
+    "size": 248172,
+    "status": "公开取得；已读取相关正文，体育仅目录与部分条目，未逐项复核全部评分表"
+  },
+  {
+    "id": "PDF04",
+    "file": "官方附件/深圳实验学校高中部-2026羽毛球评分标准.pdf",
+    "url": "https://www.szsy.cn/uploads/jyjxb/%E9%99%84%E4%BB%B65-1%EF%BC%9A2026%E5%B9%B4%E6%B7%B1%E5%9C%B3%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1%E9%AB%98%E4%B8%AD%E9%83%A8%E8%87%AA%E4%B8%BB%E6%8B%9B%E7%94%9F%28%E4%BA%8C%E7%B1%BB%29%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%93%E9%A1%B9%E8%80%83%E6%A0%B8%E5%86%85%E5%AE%B9%E5%8F%8A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86_1781055536.pdf",
+    "alias_url": null,
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "b5de39d317ffad0e58d330b791c59802765e44f47ad3a5b137b05bddbfa41e3a",
+    "size": 218379,
+    "status": "公开取得；已读取相关正文，体育仅目录与部分条目，未逐项复核全部评分表"
+  },
+  {
+    "id": "PDF05",
+    "file": "官方附件/深圳实验学校高中部-2026围棋评分标准.pdf",
+    "url": "https://www.szsy.cn/uploads/jyjxb/%E9%99%84%E4%BB%B65-2%EF%BC%9A2026%E5%B9%B4%E6%B7%B1%E5%9C%B3%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1%E9%AB%98%E4%B8%AD%E9%83%A8%E8%87%AA%E4%B8%BB%E6%8B%9B%E7%94%9F%28%E4%BA%8C%E7%B1%BB%29%E5%9B%B4%E6%A3%8B%E4%B8%93%E9%A1%B9%E8%80%83%E6%A0%B8%E5%86%85%E5%AE%B9%E5%8F%8A%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86_1781055536.pdf",
+    "alias_url": null,
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "6ef7953573798bbb5fd92a93e7f1ecab2104b04c2afde985dab397fe638fd615",
+    "size": 95688,
+    "status": "公开取得；已读取相关正文，体育仅目录与部分条目，未逐项复核全部评分表"
+  },
+  {
+    "id": "PDF06",
+    "file": "官方附件/市级-2026体育类专项评分指导意见.pdf",
+    "url": "https://szeb.sz.gov.cn/attachment/1/1715/1715853/12801966.pdf",
+    "alias_url": "https://szeb.sz.gov.cn/attachment/1/1715/1715853/12801967.pdf",
+    "published": "2026-05-22（官方索引日期）",
+    "accessed": "2026-10-28",
+    "sha256": "f84f0d3afdbfcb5f0f1eec5b20da11fac5f354808819dfd3ace17478edc01e34",
+    "size": 1209877,
+    "status": "公开取得；已读取相关正文，体育仅目录与部分条目，未逐项复核全部评分表"
+  },
+  {
+    "id": "PDF07",
+    "file": "官方附件/市级-2026音乐舞蹈表演评分指导意见.pdf",
+    "url": "https://szeb.sz.gov.cn/attachment/1/1715/1715854/12801980.pdf",
+    "alias_url": "https://szeb.sz.gov.cn/attachment/1/1715/1715854/12801981.pdf",
+    "published": "2026-05-22（官方索引日期）",
+    "accessed": "2026-10-28",
+    "sha256": "275d3417945bfdb9a599eb93f611acf9428849d3690c759f337d61b9c265173b",
+    "size": 360757,
+    "status": "公开取得；已读取相关正文，体育仅目录与部分条目，未逐项复核全部评分表"
+  },
+  {
+    "id": "PDF08",
+    "file": "官方附件/市级-2026美术类专项评分指导意见.pdf",
+    "url": "https://szeb.sz.gov.cn/attachment/1/1715/1715852/12801958.pdf",
+    "alias_url": "https://szeb.sz.gov.cn/attachment/1/1715/1715852/12801960.pdf",
+    "published": "2026-05-22（官方索引日期）",
+    "accessed": "2026-10-28",
+    "sha256": "5ce29e68dc4ed2f4a7159ec3e0ab07d2380c2430bf64cbd821353e8a98226752",
+    "size": 225941,
+    "status": "公开取得；已读取相关正文，体育仅目录与部分条目，未逐项复核全部评分表"
+  },
+  {
+    "id": "private_scheme",
+    "file": "官方附件/附件5-2026民办自主招生工作方案.docx",
+    "url": "https://szeb.sz.gov.cn/attachment/1/1721/1721178/12833273.docx",
+    "alias_url": "https://www.sz.gov.cn/attachment/1/1721/1721178/12833432.docx",
+    "published": "2026-06-10",
+    "accessed": "2026-10-28",
+    "sha256": "1c5dfb52cf063fe2b4fbc72c3796f1839b99af804e0f77ea2f0d0c6f9d993360",
+    "size": 33325,
+    "status": "公开取得；读取正文，原始下载为政府转载附件，教育局页面已核对附件路径"
+  }
+]

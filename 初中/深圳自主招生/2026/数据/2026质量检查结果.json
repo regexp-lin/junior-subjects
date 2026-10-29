@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-28",
+  "school_category_rows": 225,
+  "unique_official_names": 131,
+  "one_class_school_project_count": 35,
+  "class2_standard_projects": 2,
+  "official_attachments": 14,
+  "official_file_hashes_ok": true,
+  "web_query_strings": 51,
+  "browser_search_queries": 2,
+  "broken_local_links": [],
+  "intentional_modified_existing_files": [
+    "初中/深圳自主招生/README.md",
+    "初中/深圳自主招生/题目/真题覆盖总表.md"
+  ],
+  "old_workspace_written": false,
+  "limitations": "外部链接可打开/超时/登录限制逐条见来源索引，并非所有外链均可访问；官方题0；无全市逐项目穷尽检索。"
+}
